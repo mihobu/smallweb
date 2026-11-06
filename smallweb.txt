@@ -23113,7 +23113,6 @@ https://mihaichiorean.com/rss.xml
 https://mihaiolteanu.me/rss.xml
 https://mihaisplace.com/rss.xml
 https://mihirchronicles.com/rss
-https://mihobu.lol/atom.xml
 https://mihobu.net/atom.xml
 https://mijailovic.net/feed.xml
 https://mijk.bearblog.dev/atom.xml
